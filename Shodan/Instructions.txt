@@ -1,0 +1,11 @@
+Install the dependencies provided 
+
+pip install shodan
+pip install pandas
+pip install pymysql
+pip install -U Jinja2
+---------------------------------------------------------------------------
+To Search queries ->
+
+python search_shodan.py
+****NOTE Always start the Apache & MySQL sever before running censys_sql.
